@@ -1,1 +1,1 @@
-<img src="[https://media.giphy.com/media/ACsYfygkj6qQnnjRNW/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcwdXYxbjM1OGRmN2xqMWN3aWl6YXJ2bDdzbHV5MW5tdnp4OW40eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XFKukVuiNB4ezDOAOp/giphy.gif)" width=250><br>
+![](Email Assitant Chrome Extension (Screen Recording))
