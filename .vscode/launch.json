@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EmailAssistantSbApplication",
+            "request": "launch",
+            "mainClass": "com.email.assistant.EmailAssistantSbApplication",
+            "projectName": "Email Assistant_e2771bf2"
+        },
+        {
+            "type": "java",
+            "name": "EmailAssistantSbApplication",
+            "request": "launch",
+            "mainClass": "com.email.assistant.EmailAssistantSbApplication",
+            "projectName": "email-assistant-sb"
+        }
+    ]
+}
